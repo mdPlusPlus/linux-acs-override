@@ -10,7 +10,7 @@ index a84a83f8881e..7d3517aaaebe 100644
 +					[PCIE] Override missing PCIe ACS support for:
 +				downstream
 +					All downstream ports - full ACS capabilities
-+				multfunction
++				multifunction
 +					All multifunction devices - multifunction ACS subset
 +				id:nnnn:nnnn
 +					Specfic device - full ACS capabilities
